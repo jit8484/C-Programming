@@ -1,8 +1,8 @@
 # 💻 C Programming Tutorials & Projects
 
-Welcome to my **C Programming** GitHub repository! This repository is dedicated to beginners and intermediate learners who want to learn and practice C programming from scratch.
+Welcome to my **C Programming** GitHub repository! This repository is dedicated to beginners and intermediate learners who want to learn and practice C programming from the ground up.
 
-I have explained each program in **simple words**, with clear comments and examples, to help you understand the **logic**, **syntax**, and **core concepts** of C.
+I have explained each program in simple words, with clear comments and examples, to help you understand the logic, syntax, and core concepts of C.
 
 ---
 
