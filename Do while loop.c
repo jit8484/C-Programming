@@ -9,10 +9,12 @@ int main() {
     //     i++;
     // }
 
+    
     // Using a do-while loop to print numbers from 1 to 10
     do {
         printf("%d ", i);
         i++;
     } while (i <= 10);
     return 0;
+
 }
