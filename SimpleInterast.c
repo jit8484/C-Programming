@@ -9,10 +9,10 @@
 printf("Enter Time:");
     scanf("%f",&time);
     
-    
     si=(principal*rate*time)/100;
     printf(" your simple interest is :%f\n",si);
     return 0;
     
     
+
  }
