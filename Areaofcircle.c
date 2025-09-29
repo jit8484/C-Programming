@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main() {
+
     
     float radius;
     printf("Enter radius:");
@@ -11,4 +12,5 @@ int main() {
     printf("The area of circle is:%f\n",area);
 
     return 0;
+
 }
