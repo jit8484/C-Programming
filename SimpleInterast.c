@@ -6,6 +6,7 @@
     printf("Enter principal:");
     scanf("%f",&principal);
    printf("Enter Rate:");
+  
     scanf("%f",&rate);
 printf("Enter Time:");
     scanf("%f",&time);
@@ -17,4 +18,5 @@ printf("Enter Time:");
     
 
  }
+
 
