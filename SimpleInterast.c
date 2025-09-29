@@ -2,6 +2,7 @@
 #include<stdio.h>
  int main(){
     float principal,rate,time,si;
+  
     printf("Enter principal:");
     scanf("%f",&principal);
    printf("Enter Rate:");
@@ -16,3 +17,4 @@ printf("Enter Time:");
     
 
  }
+
